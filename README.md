@@ -21,6 +21,5 @@ MAIN USERINTERFACE:
 ![image](https://github.com/Mrudhulam8/Web-Based-Blood-Donation-System/assets/171497254/6d89fc02-9941-4c13-8c56-15e507927121)
 SELECT UR BLOOD GROUP:
 ![image](https://github.com/Mrudhulam8/Web-Based-Blood-Donation-System/assets/171497254/6df25b5e-a9af-4c2e-a6d3-196933851650)
-DONOR LIST:
-![image](https://github.com/Mrudhulam8/Web-Based-Blood-Donation-System/assets/171497254/ca677da5-1153-4151-8d8f-a132baa37750)
+
 
